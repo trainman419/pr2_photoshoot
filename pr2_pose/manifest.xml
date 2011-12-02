@@ -1,0 +1,16 @@
+<package>
+  <description brief="pr2_pose">
+
+     pr2_pose
+
+  </description>
+  <author>Austin Hendrix</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/pr2_pose</url>
+  <depend package="rospy"/>
+  <depend package="sensor_msgs"/>
+
+</package>
+
+

@@ -44,5 +44,4 @@ if __name__ == '__main__':
 
    stream = file(fname, 'w')
 
-
-#   print yaml.dump(output)
+   yaml.dump(output, stream)

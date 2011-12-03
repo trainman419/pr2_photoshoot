@@ -9,7 +9,11 @@
   <review status="unreviewed" notes=""/>
   <url>http://ros.org/wiki/pr2_pose</url>
   <depend package="rospy"/>
+  <depend package="actionlib"/>
+
   <depend package="sensor_msgs"/>
+  <depend package="trajectory_msgs"/>
+  <depend package="pr2_controllers_msgs"/>
 
 </package>
 
